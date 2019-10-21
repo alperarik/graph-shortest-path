@@ -1,4 +1,4 @@
-# graph_shortest_path
+# graph shortest path
 Creates random graph
 
 Finds minumum spanning tree with Kruskal algorithm
